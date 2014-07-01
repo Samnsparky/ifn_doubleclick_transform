@@ -1,0 +1,13 @@
+{
+    "transformations": [
+        {
+            "starts_with": "annuities",
+            "side_code_1": "/11439428/300x250-IFN-Site-Rectangle-1",
+            "side_code_2": "/11439428/300x250-IFN-Site-Rectangle-2",
+            "top_code": "/11439428/728x90-IFN-Site-Leaderboard-1",
+            "side_code_1_target": "Annuities Forum",
+            "side_code_2_target": "Annuities Forum",
+            "top_code_target": "Annuities Forum"
+        }
+    ]
+}
