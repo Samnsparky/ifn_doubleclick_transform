@@ -5,7 +5,7 @@ The DoubleClick codes and targeting might need to change in the future for IFN O
 <br>
 Writing Transformation JSON Files
 ---------------------------------
-The JSON document must contain a root object with a ```transformations``` attribute. That required attribute should have an array of objects as its value. The objects within that array are called rules. Every rule must have a ```starts_with``` attribute that describes what the slug of the articles / channels must be in order to be transformed by this rule. The other attributes of the rule will be written to the matching channels / articles.
+The JSON document must contain a root object with a ```transformations``` attribute. That required attribute should have an array of objects as its value. The objects within that array are called rules. Every rule must have a ```starts_with``` attribute that describes what the slug of the articles / channels must be in order to be transformed by this rule. The other attributes of the rule will be written to the matching channels / articles. See test_transform.json for an example!
 
 <br>
 Running the tool
